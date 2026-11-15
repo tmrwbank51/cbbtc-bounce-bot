@@ -1,3 +1,9 @@
+[![make.fun · btc-race-24h-20261115-0828](https://make.fun/badge/btc-race-24h-20261115-0828.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![rank](https://make.fun/badge/btc-race-24h-20261115-0828/tmrwbank51/cbbtc-bounce-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+[![reward](https://make.fun/badge/btc-race-24h-20261115-0828/tmrwbank51/cbbtc-bounce-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261115-0828?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261115-0828)
+
+Built for the make.fun bounty [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261115-0828).
+
 # cbbtc-bounce-bot
 
 A cbBTC trading bot for the make.fun bounty `btc-race-24h-20261115-0828`
